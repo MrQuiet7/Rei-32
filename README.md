@@ -9,7 +9,7 @@
 
  - The board follows super minimal design, while keeping the design minimal and focused on the features that are useful for embedded development.
  -  If there’s no need for a feature, it simply isn’t included.
- -  The complete hardware design was created in *KiCad 10*, including the schematic and PCB layout.
+ -  The complete hardware design was created in **KiCad 10**, including the schematic and PCB layout.
  -  Small board. Simple design. Full control.
 
 ##Features
@@ -22,4 +22,11 @@
 - Open hardware design
 
 ##Hardware
-Rei-32 is built around an **STM32F103C8T6** microcontroller, providing an ARM-based platform in a compact and practical form factor.
+- Rei-32 is built around an **STM32F103C8T6** microcontroller, providing an ARM-based platform in a compact and practical form factor.
+
+##Form Factor
+- Rei-32 has dimensions of 25mm by 55mm (0.98 inches by 2.17 inches for Americans).
+<p align="center">
+  <img src="assets/Rei-32.png" alt="‌レイ-32" width="100%" />
+</p>
+- The compact layout allows it to be used in projects where a larger development board would be inconvenient.
