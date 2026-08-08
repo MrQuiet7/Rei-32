@@ -26,6 +26,11 @@
 
 ##Form Factor
 - Rei-32 has dimensions of 25mm by 55mm (0.98 inches by 2.17 inches for Americans).
+
+<p align="center">
+  **PCB** **Front** **Front with components** **Back**
+</p>
+
 <p align="center">
   <img src="assets/Rei-32.png" alt="‌レイ-32" width="100%" />
 </p>
