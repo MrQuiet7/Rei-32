@@ -35,3 +35,18 @@
   <img src="assets/Rei-32.png" alt="‌レイ-32" width="100%" />
 </p>
 - The compact layout allows it to be used in projects where a larger development board would be inconvenient.
+
+##Boot Configuration
+- Rei-32 includes dedicated configuration for the STM32 boot modes.
+- The boot configuration is accessible directly on the board, allowing the MCU to be placed into the required boot mode without adding external circuitry.
+
+##Status LED
+- An addressable WS2812B LED is included on the board.
+- It can be used as a simple status indicator or controlled directly by firmware for debugging, state indication, and user feedback.
+
+##Schematic
+- The complete schematic is included in the repository.
+
+<p align="center">
+  <img src="Hardware/Schematic.pdf" alt="‌Schematic" width="100%" />
+</p>
