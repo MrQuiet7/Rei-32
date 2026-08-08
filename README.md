@@ -9,4 +9,4 @@
  - The board follows super minimal design, while keeping the design minimal and focused on the features that are useful for embedded development.
  -  If there’s no need for a feature, it simply isn’t included.
  -  The complete hardware design was created in *KiCad 10*, including the schematic and PCB layout.
-| Small board. Simple design. Full control.
+ | Small board. Simple design. Full control.
