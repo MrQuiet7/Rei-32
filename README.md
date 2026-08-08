@@ -28,7 +28,7 @@
 - Rei-32 has dimensions of 25mm by 55mm (0.98 inches by 2.17 inches for Americans).
 
 <p align="center">
-  **PCB** **Front** **Front with components** **Back**
+    PCB  +  Front  +  Front with components  +  Back
 </p>
 
 <p align="center">
