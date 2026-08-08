@@ -47,6 +47,7 @@
 ##Schematic
 - The complete schematic is included in the repository.
 
-<p align="center">
-  <img src="Hardware/Schematic.pdf" alt="‌Schematic" width="100%" />
-</p>
+
+##Author
+- **Hossein Sharifi**
+- Designed, developed, and documented as a personal hardware project.
