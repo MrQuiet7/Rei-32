@@ -11,7 +11,7 @@
  - A compact STM32 development board designed from scratch with a focus on simplicity, usability, and a clean form factor.
  -  If there’s no need for a feature, it simply isn’t included.
  -  The complete hardware design was created in **KiCad 10**, including the schematic and PCB layout.
- -  Small board. Simple design. Full control.
+ -  **Small board. Simple design. Full control.**
 
 ## Features
 
