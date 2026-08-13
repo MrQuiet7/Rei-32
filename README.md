@@ -51,3 +51,8 @@
 ## Author
 - **Hossein Sharifi**
 - Designed, developed, and documented as a personal hardware project.
+
+## License
+
+#### GNU General Public License v3.0
+
